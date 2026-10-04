@@ -1,0 +1,14 @@
+E:\Learning_Folder\Learning_dotnet\ToDoList\bin\Debug\net10.0\ToDoList.exe
+E:\Learning_Folder\Learning_dotnet\ToDoList\bin\Debug\net10.0\ToDoList.deps.json
+E:\Learning_Folder\Learning_dotnet\ToDoList\bin\Debug\net10.0\ToDoList.runtimeconfig.json
+E:\Learning_Folder\Learning_dotnet\ToDoList\bin\Debug\net10.0\ToDoList.dll
+E:\Learning_Folder\Learning_dotnet\ToDoList\bin\Debug\net10.0\ToDoList.pdb
+E:\Learning_Folder\Learning_dotnet\ToDoList\obj\Debug\net10.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning_Folder\Learning_dotnet\ToDoList\obj\Debug\net10.0\ToDoList.AssemblyInfoInputs.cache
+E:\Learning_Folder\Learning_dotnet\ToDoList\obj\Debug\net10.0\ToDoList.AssemblyInfo.cs
+E:\Learning_Folder\Learning_dotnet\ToDoList\obj\Debug\net10.0\ToDoList.csproj.CoreCompileInputs.cache
+E:\Learning_Folder\Learning_dotnet\ToDoList\obj\Debug\net10.0\ToDoList.dll
+E:\Learning_Folder\Learning_dotnet\ToDoList\obj\Debug\net10.0\refint\ToDoList.dll
+E:\Learning_Folder\Learning_dotnet\ToDoList\obj\Debug\net10.0\ToDoList.pdb
+E:\Learning_Folder\Learning_dotnet\ToDoList\obj\Debug\net10.0\ToDoList.genruntimeconfig.cache
+E:\Learning_Folder\Learning_dotnet\ToDoList\obj\Debug\net10.0\ref\ToDoList.dll
