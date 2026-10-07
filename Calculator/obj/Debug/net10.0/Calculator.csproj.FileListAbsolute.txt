@@ -1,0 +1,15 @@
+E:\Learning_Folder\Learning_dotnet\Calculator\bin\Debug\net10.0\Calculator.exe
+E:\Learning_Folder\Learning_dotnet\Calculator\bin\Debug\net10.0\Calculator.deps.json
+E:\Learning_Folder\Learning_dotnet\Calculator\bin\Debug\net10.0\Calculator.runtimeconfig.json
+E:\Learning_Folder\Learning_dotnet\Calculator\bin\Debug\net10.0\Calculator.dll
+E:\Learning_Folder\Learning_dotnet\Calculator\bin\Debug\net10.0\Calculator.pdb
+E:\Learning_Folder\Learning_dotnet\Calculator\obj\Debug\net10.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning_Folder\Learning_dotnet\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfoInputs.cache
+E:\Learning_Folder\Learning_dotnet\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfo.cs
+E:\Learning_Folder\Learning_dotnet\Calculator\obj\Debug\net10.0\Calculator.csproj.CoreCompileInputs.cache
+E:\Learning_Folder\Learning_dotnet\Calculator\obj\Debug\net10.0\Calculator.sourcelink.json
+E:\Learning_Folder\Learning_dotnet\Calculator\obj\Debug\net10.0\Calculator.dll
+E:\Learning_Folder\Learning_dotnet\Calculator\obj\Debug\net10.0\refint\Calculator.dll
+E:\Learning_Folder\Learning_dotnet\Calculator\obj\Debug\net10.0\Calculator.pdb
+E:\Learning_Folder\Learning_dotnet\Calculator\obj\Debug\net10.0\Calculator.genruntimeconfig.cache
+E:\Learning_Folder\Learning_dotnet\Calculator\obj\Debug\net10.0\ref\Calculator.dll

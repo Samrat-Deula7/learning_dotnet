@@ -9,4 +9,25 @@ string userChoice = Console.ReadLine();
 
 bool isUserInputAbc = userChoice == "ABC";
 
+if (userChoice == "S")
+{
+    PrintSelectedOption("Selected option: See all TODOs");
+}
+else if (userChoice == "A")
+{
+    PrintSelectedOption("Selected option: Add all TODOs");
+}
+else if (userChoice == "R")
+{
+    PrintSelectedOption("Selected option: Remove a TODOs");
+}
+else
+{
+    PrintSelectedOption("Selected option: Exit");
+}
 Console.WriteLine(isUserInputAbc);
+
+void PrintSelectedOption(string selectedOption)
+{
+    Console.WriteLine("Selected option: " + selectedOption);
+}
