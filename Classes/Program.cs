@@ -16,8 +16,8 @@ Console.WriteLine("Circumference is: " + rectangle2.CalculateCircumference());
 
 class Rectangle
 {
-    public int Width;
-    public int Height;
+    public readonly int Width;
+    public readonly int Height;
 
     // The following is an constructure 
     // it runs when we initialize an object using this class as a blueprint.
@@ -26,8 +26,21 @@ class Rectangle
 
     public Rectangle(int width, int height)
     {
-        Width = width;
-        Height = height;
+        Width = validation(width, nameof(Width));
+        Height = validation(height, nameof(height));
+    }
+
+    private int validation(int value, string type)
+    {
+        int defaultValue = 1;
+        if (value <= 0)
+        {
+            return defaultValue;
+        }
+        else
+        {
+            return value;
+        }
     }
 
     // following is simply an method
@@ -41,4 +54,6 @@ class Rectangle
     {
         return Width * Height;
     }
+
+
 }
