@@ -1,0 +1,15 @@
+E:\Learning_Folder\Learning_dotnet\DiceGame\bin\Debug\net10.0\DiceGame.exe
+E:\Learning_Folder\Learning_dotnet\DiceGame\bin\Debug\net10.0\DiceGame.deps.json
+E:\Learning_Folder\Learning_dotnet\DiceGame\bin\Debug\net10.0\DiceGame.runtimeconfig.json
+E:\Learning_Folder\Learning_dotnet\DiceGame\bin\Debug\net10.0\DiceGame.dll
+E:\Learning_Folder\Learning_dotnet\DiceGame\bin\Debug\net10.0\DiceGame.pdb
+E:\Learning_Folder\Learning_dotnet\DiceGame\obj\Debug\net10.0\DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning_Folder\Learning_dotnet\DiceGame\obj\Debug\net10.0\DiceGame.AssemblyInfoInputs.cache
+E:\Learning_Folder\Learning_dotnet\DiceGame\obj\Debug\net10.0\DiceGame.AssemblyInfo.cs
+E:\Learning_Folder\Learning_dotnet\DiceGame\obj\Debug\net10.0\DiceGame.csproj.CoreCompileInputs.cache
+E:\Learning_Folder\Learning_dotnet\DiceGame\obj\Debug\net10.0\DiceGame.sourcelink.json
+E:\Learning_Folder\Learning_dotnet\DiceGame\obj\Debug\net10.0\DiceGame.dll
+E:\Learning_Folder\Learning_dotnet\DiceGame\obj\Debug\net10.0\refint\DiceGame.dll
+E:\Learning_Folder\Learning_dotnet\DiceGame\obj\Debug\net10.0\DiceGame.pdb
+E:\Learning_Folder\Learning_dotnet\DiceGame\obj\Debug\net10.0\DiceGame.genruntimeconfig.cache
+E:\Learning_Folder\Learning_dotnet\DiceGame\obj\Debug\net10.0\ref\DiceGame.dll

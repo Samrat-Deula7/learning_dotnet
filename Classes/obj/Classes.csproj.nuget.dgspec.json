@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Learning_Folder\\Learning_dotnet\\Classes\\Classes.csproj": {}
+    "E:\\Learning_Folder\\Learning_dotnet\\Classes\\Classes.csproj": {}
   },
   "projects": {
-    "e:\\Learning_Folder\\Learning_dotnet\\Classes\\Classes.csproj": {
+    "E:\\Learning_Folder\\Learning_dotnet\\Classes\\Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Learning_Folder\\Learning_dotnet\\Classes\\Classes.csproj",
+        "projectUniqueName": "E:\\Learning_Folder\\Learning_dotnet\\Classes\\Classes.csproj",
         "projectName": "Classes",
-        "projectPath": "e:\\Learning_Folder\\Learning_dotnet\\Classes\\Classes.csproj",
+        "projectPath": "E:\\Learning_Folder\\Learning_dotnet\\Classes\\Classes.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "e:\\Learning_Folder\\Learning_dotnet\\Classes\\obj\\",
+        "outputPath": "E:\\Learning_Folder\\Learning_dotnet\\Classes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
