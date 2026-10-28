@@ -6,9 +6,9 @@ namespace DiceGameLogic
 
         Random randomNum = new Random();
 
-        public GenDiceNumber()
+        public GenDiceNumber(int sidesCount)
         {
-            result = randomNum.Next(1, 7);
+            result = randomNum.Next(1, sidesCount + 1);
         }
     }
 }
