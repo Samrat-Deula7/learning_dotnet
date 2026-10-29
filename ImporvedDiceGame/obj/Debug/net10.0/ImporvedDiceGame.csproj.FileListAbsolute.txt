@@ -1,0 +1,15 @@
+E:\Learning_Folder\Learning_dotnet\ImporvedDiceGame\bin\Debug\net10.0\ImporvedDiceGame.exe
+E:\Learning_Folder\Learning_dotnet\ImporvedDiceGame\bin\Debug\net10.0\ImporvedDiceGame.deps.json
+E:\Learning_Folder\Learning_dotnet\ImporvedDiceGame\bin\Debug\net10.0\ImporvedDiceGame.runtimeconfig.json
+E:\Learning_Folder\Learning_dotnet\ImporvedDiceGame\bin\Debug\net10.0\ImporvedDiceGame.dll
+E:\Learning_Folder\Learning_dotnet\ImporvedDiceGame\bin\Debug\net10.0\ImporvedDiceGame.pdb
+E:\Learning_Folder\Learning_dotnet\ImporvedDiceGame\obj\Debug\net10.0\ImporvedDiceGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning_Folder\Learning_dotnet\ImporvedDiceGame\obj\Debug\net10.0\ImporvedDiceGame.AssemblyInfoInputs.cache
+E:\Learning_Folder\Learning_dotnet\ImporvedDiceGame\obj\Debug\net10.0\ImporvedDiceGame.AssemblyInfo.cs
+E:\Learning_Folder\Learning_dotnet\ImporvedDiceGame\obj\Debug\net10.0\ImporvedDiceGame.csproj.CoreCompileInputs.cache
+E:\Learning_Folder\Learning_dotnet\ImporvedDiceGame\obj\Debug\net10.0\ImporvedDiceGame.sourcelink.json
+E:\Learning_Folder\Learning_dotnet\ImporvedDiceGame\obj\Debug\net10.0\ImporvedDiceGame.dll
+E:\Learning_Folder\Learning_dotnet\ImporvedDiceGame\obj\Debug\net10.0\refint\ImporvedDiceGame.dll
+E:\Learning_Folder\Learning_dotnet\ImporvedDiceGame\obj\Debug\net10.0\ImporvedDiceGame.pdb
+E:\Learning_Folder\Learning_dotnet\ImporvedDiceGame\obj\Debug\net10.0\ImporvedDiceGame.genruntimeconfig.cache
+E:\Learning_Folder\Learning_dotnet\ImporvedDiceGame\obj\Debug\net10.0\ref\ImporvedDiceGame.dll

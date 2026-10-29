@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Learning_Folder\\Learning_dotnet\\ImporvedDiceGame\\ImporvedDiceGame.csproj": {}
+    "E:\\Learning_Folder\\Learning_dotnet\\ImporvedDiceGame\\ImporvedDiceGame.csproj": {}
   },
   "projects": {
-    "e:\\Learning_Folder\\Learning_dotnet\\ImporvedDiceGame\\ImporvedDiceGame.csproj": {
+    "E:\\Learning_Folder\\Learning_dotnet\\ImporvedDiceGame\\ImporvedDiceGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Learning_Folder\\Learning_dotnet\\ImporvedDiceGame\\ImporvedDiceGame.csproj",
+        "projectUniqueName": "E:\\Learning_Folder\\Learning_dotnet\\ImporvedDiceGame\\ImporvedDiceGame.csproj",
         "projectName": "ImporvedDiceGame",
-        "projectPath": "e:\\Learning_Folder\\Learning_dotnet\\ImporvedDiceGame\\ImporvedDiceGame.csproj",
+        "projectPath": "E:\\Learning_Folder\\Learning_dotnet\\ImporvedDiceGame\\ImporvedDiceGame.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "e:\\Learning_Folder\\Learning_dotnet\\ImporvedDiceGame\\obj\\",
+        "outputPath": "E:\\Learning_Folder\\Learning_dotnet\\ImporvedDiceGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"

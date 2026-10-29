@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImporvedDiceGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36bd4436f6019e9f17a39ec24de794b1fdab597d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+812c9f9e0bef6d7ee64655b02c7cd10d91e9afae")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImporvedDiceGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImporvedDiceGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
